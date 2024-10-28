@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @YADAVankit0109
 - 👀 I’m interested in become web developer
-- 🌱 I’m currently learning in btech 1st year
-- 💞️ I’m looking to collaborate website
+- 🌱 I’m currently study in btech 1st year
 - 📫 reach to me by github id
 
 <!---
